@@ -2,9 +2,9 @@
 export const identity = {
   name: "Nur Albab Nusantara",
   established: "Cilegon, 04 Oktober 2023",
-  address: "Link. Tegal Wangi No.64 RT.006 RW.007 Rawa Arum Gerogol Kota Cilegon Banten 42436",
+  address: "Jl. Raya Merak Link. Tegal Wangi No.64 RT.006 RW.007 Rawa Arum Gerogol Kota Cilegon Banten 42436",
   phone: "08993700085",
-  email: "nuralbabfoundation@gmail.com",
+  email: "yayasancintanuralbab@gmail.com",
   founder: "Edi Haryadi",
   chairman: "Muhamad Darojat",
   viceChairman: "Irwandi",
